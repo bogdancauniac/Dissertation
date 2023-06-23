@@ -1,0 +1,1 @@
+pcdm Q50bin Q46nt Q47nt Q48nt Q49nt Q51nt Q54nt Q56nt Q108nt Q142nt Q252nt Q286nt Q288nt Q288Rnt, minacc(0.1) minn(62818) maxp(0.001)
