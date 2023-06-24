@@ -19,8 +19,8 @@ nomolog
 
 // Collinearity checks commands for third analysis
 
-reg Q50bin Q46nt Q47nt Q48nt Q54nt Q56nt Q108nt Q142nt Q252nt Q286nt Q288nt
+reg Q50bin Q46nt Q48nt Q54nt Q56nt Q108nt Q142nt Q252nt Q286nt Q288nt
 vif
-generate maxVIF2 = 1/(1-e(r2))
+generate maxVIF3 = 1/(1-e(r2))
 
-correlate Q46nt Q47nt Q48nt Q54nt Q56nt Q108nt Q142nt Q252nt Q286nt Q288nt
+correlate Q46nt Q48nt Q54nt Q56nt Q108nt Q142nt Q252nt Q286nt Q288nt
